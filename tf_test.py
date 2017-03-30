@@ -16,3 +16,4 @@ a = np.array([10, 20])
 # hello git 
 # fenzhi1
 # branch manage
+# no bug 
