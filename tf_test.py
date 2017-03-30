@@ -11,3 +11,5 @@ print('hello world.')
 a = np.array([10, 20])
 
 # D:/ProgramData/Anaconda3/envs/python35/Scripts/ipython
+# machine learnig
+# hello git 
