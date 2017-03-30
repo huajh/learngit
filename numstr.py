@@ -51,6 +51,7 @@ class NumStr(object):
 
 
 if __name__ == '__main__':
+    # just for test
     a = NumStr(3, 'foo')
     b = NumStr(3, 'goo')
     c = NumStr(2, 'foo')
